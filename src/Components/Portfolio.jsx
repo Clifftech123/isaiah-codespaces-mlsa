@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Object Oriented Programming with Typescript🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "OOP, or Object Oriented Programming, is a powerful programming paradigm that has gained widespread popularity in recent years.",
+    url: "https://dev.to/cliff123tech/oop-typescript-jk4",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Boost Your Coding Game with Git and GitHub Mastery",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Git and GitHub are essential tools for any software developer. Git is a version control system that allows you to track changes to your code, ",
+    url: "https://dev.to/cliff123tech/boost-your-coding-game-with-git-and-github-mastery-1c2o",
   },
   {
     title: "My Resume Site",

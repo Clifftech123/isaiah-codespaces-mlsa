@@ -18,13 +18,13 @@ import React from "react";
  */
 import image from "../images/motion-background.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = " Passionat , Problem Solver, Creative, and community builder";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a software engineer based in Accra, Ghana specializing in building software solutions for the web and mobile. Currently, I'm a software engineer at a startup called Kudigo. I love to build software solutions that solve real world problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
